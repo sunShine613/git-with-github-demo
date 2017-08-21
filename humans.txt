@@ -7,7 +7,7 @@
 #some change ---now
 # diff change test
     <name> -- <role> -- <twitter>
-
+#ssh communication based on password
 # THANKS
 
   Bibhash Roy
